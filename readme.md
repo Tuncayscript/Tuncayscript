@@ -7,7 +7,7 @@ I'm Tunjay Akbarli, a visionary in the field of Software Development, Artifical 
 
 ### 🌟 Highlights
 - Designer of the first programming language of Azerbaijan, Code24.
-- Founder and CEO at ITGSS, leading the charge in software solutions.
+- Founder and Chief Executive Officer of NeXTech, leading the charge in software solutions.
 - A key player in expanding Azerbaijan's role on the Technology.
 
 ## 💻 My Projects
