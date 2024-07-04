@@ -6,8 +6,8 @@ Welcome to my GitHub space where I share my journey in technology and innovation
 I'm Tunjay Akbarli, a visionary in the field of Software Development, Artifical Intellegence, Cloud Computing and Quantum Computing. My passion lies in pushing the boundaries of what's possible with code. With a rich background in programming and technology, I have embarked on a mission to contribute to the tech landscape of Azerbaijan and beyond.
 
 ### 🌟 Highlights
-- Designer of the first programming language of Azerbaijan, NeXTCode.
 - Founder and Chief Executive Officer of NeXTech, leading the charge in software solutions.
+- Designer of the first programming language of Azerbaijan, NeXTCode.
 - A key player in expanding Azerbaijan's role on the Technology.
 
 ## 💻 My Projects
