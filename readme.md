@@ -1,6 +1,6 @@
 # Tunjay Akbarli - Innovator, Software Engineer, Compiler Engineer, Young Computer Pioneer
 
-Welcome to my GitHub space where I share my journey in technology and innovation. As the designer of Azerbaijan's first programming language, Code, I am dedicated to creating tools that empower developers and make programming more accessible.
+Welcome to my GitHub space where I share my journey in technology and innovation. As the designer of Azerbaijan's first programming language, NeXTCode, I am dedicated to creating tools that empower developers and make programming more accessible.
 
 ## 🚀 About Me
 I'm Tunjay Akbarli, a visionary in the field of Software Development, Artifical Intellegence, Cloud Computing and Quantum Computing. My passion lies in pushing the boundaries of what's possible with code. With a rich background in programming and technology, I have embarked on a mission to contribute to the tech landscape of Azerbaijan and beyond.
