@@ -1,4 +1,4 @@
-# Tunjay Akbarli - Leader, Inventor, Software Engineer, Compiler Engineer, Young Computer Pioneer
+# Tunjay Akbarli - Leader, Inventor, Software Engineer, Young Computer Pioneer
 
 Welcome to my GitHub space where I share my journey in technology and innovation. As the designer of Azerbaijan's first programming language, NeXTCode, I am dedicated to creating tools that empower developers and make programming more accessible.
 
